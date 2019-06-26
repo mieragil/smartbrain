@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Arial Narrow', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right, #3f3a59, #4d3e73, #603f8b, #793ca1, #9633b3, #9633b3, #9633b3, #9633b3, #793ca1, #603f8b, #4d3e73, #3f3a59);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+button{
+  cursor: pointer;
+  border: 2px solid rgba(243, 151, 255, 0.685);
+}
+
+p{
+  color: white;
+}
